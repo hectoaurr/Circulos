@@ -25,7 +25,7 @@ function draw() {
 				}
 			})
 		})
-}
+}       
 
 function mousePressed() {
 	circulo = new Ball(mouseX,mouseY,floor(windowWidth),floor(windowHeight),50,50,numeroCirculo)
